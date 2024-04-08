@@ -43,7 +43,7 @@
   <snapshotRepository>
   <id>nexus</id>
   <name>jitesh</name>
-  <url>http://13.234.32.51:8081/repository/maven-snapshots/</url>
+  <url>http://13.234.32.51:8081/repository/jitesh/</url>
  </snapshotRepository>
  <!--
  <repository>
