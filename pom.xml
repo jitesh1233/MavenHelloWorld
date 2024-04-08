@@ -41,8 +41,8 @@
  <!-- Publish the versioned releases here -->
 
   <snapshotRepository>
-  <id>nexus</id>
-  <name>snapshot nexus</name>
+  <id>jitesh</id>
+  <name>jitesh</name>
   <url>http://13.234.32.51:8081/repository/maven-snapshots/</url>
  </snapshotRepository>
  <!--
